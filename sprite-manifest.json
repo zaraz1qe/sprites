@@ -1,0 +1,258 @@
+{
+  "baseUrl": "https://zaraz1qe.github.io/sprites/sprites",
+  "imageFormat": "png",
+  "characters": {
+    "lucina": {
+      "displayName": "Lucina",
+      "franchise": "Fire Emblem Awakening",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "determined",
+        "worried"
+      ]
+    },
+    "tharja": {
+      "displayName": "Tharja",
+      "franchise": "Fire Emblem Awakening",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "smirk",
+        "scheming"
+      ]
+    },
+    "camilla": {
+      "displayName": "Camilla",
+      "franchise": "Fire Emblem Fates",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "teasing",
+        "concerned"
+      ]
+    },
+    "corrin": {
+      "displayName": "Corrin",
+      "franchise": "Fire Emblem Fates",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "determined",
+        "confused"
+      ]
+    },
+    "kagero": {
+      "displayName": "Kagero",
+      "franchise": "Fire Emblem Fates",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "serious",
+        "flustered"
+      ]
+    },
+    "kronya": {
+      "displayName": "Kronya",
+      "franchise": "Fire Emblem Three Houses",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "sinister",
+        "excited"
+      ]
+    },
+    "gullveig": {
+      "displayName": "Gullveig",
+      "franchise": "Fire Emblem Heroes",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "mysterious",
+        "serene"
+      ]
+    },
+    "filament": {
+      "displayName": "Filament",
+      "franchise": "Ar Tonelico Qoga",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "gentle",
+        "worried"
+      ]
+    },
+    "cordelia": {
+      "displayName": "Cordelia",
+      "franchise": "Ken to Mahou to Gakuen Mono.",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "shy",
+        "confident"
+      ]
+    },
+    "shirma": {
+      "displayName": "Shirma",
+      "franchise": "Mugen Souls Z",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "shy",
+        "determined"
+      ]
+    },
+    "ariael": {
+      "displayName": "Ariael",
+      "franchise": "The Awakened Fate Ultimatum",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "angelic",
+        "stern"
+      ]
+    },
+    "midori": {
+      "displayName": "Midori",
+      "franchise": "Shin Megami Tensei Devil Survivor",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "cheerful",
+        "worried"
+      ]
+    },
+    "konata": {
+      "displayName": "Konata",
+      "franchise": "Lucky Star",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "smug",
+        "sleepy"
+      ]
+    },
+    "makima": {
+      "displayName": "Makima",
+      "franchise": "Chainsaw Man",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "cold",
+        "commanding"
+      ]
+    },
+    "clan-witch": {
+      "displayName": "Clan Witch",
+      "franchise": "Indivisible",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "casting",
+        "mysterious"
+      ]
+    },
+    "crusch": {
+      "displayName": "Crusch",
+      "franchise": "Re:Zero",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "regal",
+        "resolute"
+      ]
+    },
+    "supura": {
+      "displayName": "Supura",
+      "franchise": "Mugen Souls Z",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "mischievous",
+        "pouty"
+      ]
+    },
+    "zero": {
+      "displayName": "Zero",
+      "franchise": "Dengeki Bunko Fighting Climax",
+      "expressions": [
+        "neutral",
+        "happy",
+        "angry",
+        "sad",
+        "surprised",
+        "blush",
+        "serious",
+        "battle"
+      ]
+    }
+  }
+}
