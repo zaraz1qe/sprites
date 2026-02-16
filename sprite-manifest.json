@@ -2,256 +2,331 @@
   "baseUrl": "https://zaraz1qe.github.io/sprites/sprites",
   "imageFormat": "png",
   "characters": {
-    "lucina": {
-      "displayName": "Lucina",
-      "franchise": "Fire Emblem Awakening",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "determined",
-        "worried"
-      ]
-    },
-    "tharja": {
-      "displayName": "Tharja",
-      "franchise": "Fire Emblem Awakening",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "smirk",
-        "scheming"
+    "ariael": {
+      "displayName": "Ariael",
+      "franchise": "The Awakened Fate Ultimatum",
+      "directory": "ariael",
+      "sprites": [
+        "angry", "angry-face", "angry-face-eyes-closed",
+        "confident", "confident-face", "confident-face-eyes-closed",
+        "demon-form",
+        "distressed", "distressed-face", "distressed-face-eyes-closed",
+        "gentle", "gentle-face", "gentle-face-eyes-closed",
+        "happy", "happy-face", "happy-face-eyes-closed",
+        "holding-cup", "holding-cup-face", "holding-cup-face-eyes-closed",
+        "laughing", "laughing-face",
+        "neutral", "neutral-face", "neutral-face-eyes-closed",
+        "sad", "sad-face", "sad-face-eyes-closed",
+        "smile", "smile-face", "smile-face-eyes-closed",
+        "surprised", "surprised-face", "surprised-face-eyes-closed",
+        "uneasy", "uneasy-face", "uneasy-face-eyes-closed",
+        "worried", "worried-face", "worried-face-eyes-closed"
       ]
     },
     "camilla": {
       "displayName": "Camilla",
       "franchise": "Fire Emblem Fates",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "teasing",
-        "concerned"
+      "directory": "camilla",
+      "sprites": ["attack", "damaged", "neutral-and-special"]
+    },
+    "clan-witch": {
+      "displayName": "Clan Witch",
+      "franchise": "Indivisible",
+      "directory": "clan-witch",
+      "sprites": ["neutral"]
+    },
+    "cordelia": {
+      "displayName": "Cordelia",
+      "franchise": "Ken to Mahou to Gakuen Mono.",
+      "directory": "cordelia",
+      "sprites": [
+        "annoyed-full", "concerned-full", "happy", "laughing",
+        "neutral", "neutral-full", "serious-full", "smile-full",
+        "smirk-full", "surprised", "thoughtful", "unamused", "worried"
       ]
     },
     "corrin": {
       "displayName": "Corrin",
       "franchise": "Fire Emblem Fates",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "determined",
-        "confused"
+      "directory": "corrin",
+      "sprites": [
+        "attack", "face-icon", "face-shouting", "face-smirk",
+        "neutral", "special", "strike", "sword-detail"
       ]
     },
-    "kagero": {
-      "displayName": "Kagero",
-      "franchise": "Fire Emblem Fates",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "serious",
-        "flustered"
-      ]
-    },
-    "kronya": {
-      "displayName": "Kronya",
-      "franchise": "Fire Emblem Three Houses",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "sinister",
-        "excited"
-      ]
-    },
-    "gullveig": {
-      "displayName": "Gullveig",
+    "corrin-adrift": {
+      "displayName": "Corrin (Adrift)",
       "franchise": "Fire Emblem Heroes",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "mysterious",
-        "serene"
+      "directory": "corrin-adrift",
+      "sprites": ["attack", "damaged", "neutral", "special"]
+    },
+    "crusch": {
+      "displayName": "Crusch Karsten",
+      "franchise": "Re:Zero",
+      "directory": "crusch",
+      "sprites": [
+        "angry", "arms-crossed", "attack", "battle-ready",
+        "concerned", "contemplative", "dismissive", "serious",
+        "smile", "stern", "surprised", "sword-pose"
+      ]
+    },
+    "crusch-dress": {
+      "displayName": "Crusch Karsten (Dress)",
+      "franchise": "Re:Zero",
+      "directory": "crusch-dress",
+      "sprites": [
+        "angry", "arms-crossed-eyes-closed", "arms-crossed-serious",
+        "determined", "happy", "neutral", "serious",
+        "side-annoyed", "side-sad", "side-worried", "surprised"
+      ]
+    },
+    "emilia": {
+      "displayName": "Emilia",
+      "franchise": "Re:Zero",
+      "directory": "emilia",
+      "sprites": [
+        "annoyed", "anxious", "blush-turned-away", "cheerful",
+        "concerned", "content", "crying", "determined", "displeased",
+        "embarrassed", "eyes-closed", "eyes-closed-profile",
+        "flustered-hands-up", "gentle-smile", "glasses-happy",
+        "glasses-serious", "glasses-smile", "glasses-surprised",
+        "happy", "laughing", "neutral", "pensive", "pleased", "pout",
+        "questioning", "sad", "serious", "smile", "somber", "speaking",
+        "startled", "surprised", "thoughtful", "upset",
+        "worried", "worried-hands-clasped"
+      ]
+    },
+    "emilia-halloween": {
+      "displayName": "Emilia (Halloween)",
+      "franchise": "Re:Zero",
+      "directory": "emilia-halloween",
+      "sprites": [
+        "concerned", "confused", "content-eyes-closed",
+        "happy-eyes-closed", "playful", "serious", "shy",
+        "smile", "spooky-pose", "surprised"
       ]
     },
     "filament": {
       "displayName": "Filament",
       "franchise": "Ar Tonelico Qoga",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "gentle",
-        "worried"
+      "directory": "filament",
+      "sprites": [
+        "angry", "annoyed",
+        "arms-crossed-angry", "arms-crossed-annoyed", "arms-crossed-neutral",
+        "arms-crossed-smile", "arms-crossed-smirk", "arms-crossed-surprised",
+        "arms-crossed-worried",
+        "cat-ears-angry", "cat-ears-annoyed", "cat-ears-neutral",
+        "cat-ears-smile", "cat-ears-smirk", "cat-ears-surprised", "cat-ears-worried",
+        "cat-ears-turned-angry", "cat-ears-turned-annoyed", "cat-ears-turned-neutral",
+        "cat-ears-turned-smile", "cat-ears-turned-smirk", "cat-ears-turned-surprised",
+        "cat-ears-turned-worried",
+        "cat-ears-bandaged-angry", "cat-ears-bandaged-annoyed",
+        "cat-ears-bandaged-neutral", "cat-ears-bandaged-smile",
+        "cat-ears-bandaged-smirk", "cat-ears-bandaged-surprised",
+        "cat-ears-bandaged-worried",
+        "cat-ears-bandaged-turned-angry", "cat-ears-bandaged-turned-annoyed",
+        "cat-ears-bandaged-turned-neutral", "cat-ears-bandaged-turned-smile",
+        "cat-ears-bandaged-turned-smirk", "cat-ears-bandaged-turned-surprised",
+        "cat-ears-bandaged-turned-worried",
+        "damaged-angry", "damaged-annoyed", "damaged-neutral",
+        "damaged-smile", "damaged-smirk", "damaged-surprised", "damaged-worried",
+        "damaged-2-angry", "damaged-2-annoyed", "damaged-2-neutral",
+        "damaged-2-smile", "damaged-2-smirk", "damaged-2-surprised", "damaged-2-worried",
+        "neutral", "smile", "smirk", "surprised", "worried"
       ]
     },
-    "cordelia": {
-      "displayName": "Cordelia",
-      "franchise": "Ken to Mahou to Gakuen Mono.",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "shy",
-        "confident"
+    "gullveig": {
+      "displayName": "Gullveig",
+      "franchise": "Fire Emblem Heroes",
+      "directory": "gullveig",
+      "sprites": ["damaged-special", "normal-attack"]
+    },
+    "kagero": {
+      "displayName": "Kagero",
+      "franchise": "Fire Emblem Fates",
+      "directory": "kagero",
+      "sprites": ["attack", "damaged", "normal", "special"]
+    },
+    "konata": {
+      "displayName": "Konata",
+      "franchise": "Lucky Star",
+      "directory": "konata",
+      "sprites": ["chibi", "neutral"]
+    },
+    "kronya": {
+      "displayName": "Kronya",
+      "franchise": "Fire Emblem Three Houses",
+      "directory": "kronya",
+      "sprites": ["attack", "damaged", "normal", "special"]
+    },
+    "lucifer": {
+      "displayName": "Lucifer",
+      "franchise": "The Awakened Fate Ultimatum",
+      "directory": "lucifer",
+      "sprites": [
+        "angry", "annoyed", "cooking-offering", "cooking-pleased",
+        "cooking-proud", "cooking-thinking", "displeased",
+        "expressions-sheet", "flustered", "grinning", "irritated",
+        "smug", "stern", "unamused"
+      ]
+    },
+    "lucina-3ds": {
+      "displayName": "Lucina",
+      "franchise": "Fire Emblem Awakening",
+      "directory": "lucina-3ds",
+      "sprites": [
+        "angry", "concerned", "determined", "gentle", "happy",
+        "masked-neutral", "masked-serious", "masked-smirk",
+        "neutral", "pensive", "sad", "serious", "smile", "speaking"
+      ]
+    },
+    "lucina-feh": {
+      "displayName": "Lucina (FEH)",
+      "franchise": "Fire Emblem Heroes",
+      "directory": "lucina-feh",
+      "sprites": ["attack", "damaged", "expressions", "neutral", "special"]
+    },
+    "midori": {
+      "displayName": "Midori",
+      "franchise": "Shin Megami Tensei Devil Survivor",
+      "directory": "midori",
+      "sprites": ["angry", "determined", "happy", "neutral"]
+    },
+    "naoto": {
+      "displayName": "Naoto Shirogane",
+      "franchise": "Persona 4",
+      "directory": "naoto",
+      "sprites": [
+        "annoyed-spring", "annoyed-summer", "annoyed-uniform", "annoyed-winter",
+        "distressed-spring",
+        "embarrassed-spring", "embarrassed-summer", "embarrassed-towel",
+        "embarrassed-uniform", "embarrassed-winter",
+        "eyes-closed-spring", "eyes-closed-summer", "eyes-closed-uniform",
+        "eyes-closed-winter",
+        "glasses-annoyed-summer", "glasses-annoyed-winter",
+        "glasses-eyes-closed-summer", "glasses-eyes-closed-winter",
+        "glasses-neutral-summer", "glasses-neutral-uniform",
+        "glasses-serious-summer", "glasses-serious-uniform",
+        "glasses-surprised-summer", "glasses-surprised-uniform",
+        "glasses-talking-summer", "glasses-talking-uniform",
+        "grinning-spring",
+        "neutral-hatless-school", "neutral-hatless-uniform", "neutral-spring-hatoff",
+        "neutral-spring", "neutral-summer", "neutral-uniform", "neutral-winter",
+        "sad-spring", "sad-summer", "sad-uniform", "sad-winter",
+        "serious-spring", "serious-summer", "serious-uniform", "serious-winter",
+        "shadow-glare-spring", "shadow-glare-spring-2",
+        "surprised-spring", "surprised-summer", "surprised-towel",
+        "surprised-uniform", "surprised-winter",
+        "talking-spring", "talking-summer", "talking-uniform", "talking-winter"
+      ]
+    },
+    "priscilla": {
+      "displayName": "Priscilla",
+      "franchise": "Re:Zero",
+      "directory": "priscilla",
+      "sprites": [
+        "annoyed", "displeased", "fan-angry", "fan-content",
+        "fan-scheming", "fan-wink", "happy", "laughing",
+        "neutral", "outraged", "smirk"
+      ]
+    },
+    "priscilla-pajamas": {
+      "displayName": "Priscilla (Pajamas)",
+      "franchise": "Re:Zero",
+      "directory": "priscilla-pajamas",
+      "sprites": [
+        "annoyed", "displeased", "fan-angry", "fan-content",
+        "fan-neutral", "fan-scheming", "happy", "laughing",
+        "neutral", "outraged", "smirk"
+      ]
+    },
+    "ram": {
+      "displayName": "Ram",
+      "franchise": "Re:Zero",
+      "directory": "ram",
+      "sprites": [
+        "angry", "annoyed", "annoyed-arms-crossed", "attack",
+        "concerned", "content", "covering-mouth", "dismissive",
+        "dismissive-blush", "distressed", "glance-back",
+        "glance-back-neutral", "neutral", "neutral-2", "resigned",
+        "sad", "serious", "shocked", "smile", "smug-eyes-closed",
+        "stern", "talking", "worried"
+      ]
+    },
+    "rem": {
+      "displayName": "Rem",
+      "franchise": "Re:Zero",
+      "directory": "rem",
+      "sprites": [
+        "annoyed", "attentive", "battle-angry", "battle-determined",
+        "battle-ready", "battle-smirk", "battle-surprised", "caring",
+        "concerned", "concerned-2", "content", "crying", "damaged",
+        "eyes-closed", "gentle-smile", "happy-eyes-closed",
+        "injured-eyes-closed", "looking-back", "looking-back-blush",
+        "looking-back-smile", "melancholy", "neutral", "neutral-blush",
+        "peaceful", "pleading", "sad", "serious", "shocked", "smile",
+        "speaking", "stern", "stoic", "surprised", "suspicious",
+        "uncertain", "worried"
       ]
     },
     "shirma": {
       "displayName": "Shirma",
       "franchise": "Mugen Souls Z",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "shy",
-        "determined"
-      ]
-    },
-    "ariael": {
-      "displayName": "Ariael",
-      "franchise": "The Awakened Fate Ultimatum",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "angelic",
-        "stern"
-      ]
-    },
-    "midori": {
-      "displayName": "Midori",
-      "franchise": "Shin Megami Tensei Devil Survivor",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "cheerful",
-        "worried"
-      ]
-    },
-    "konata": {
-      "displayName": "Konata",
-      "franchise": "Lucky Star",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "smug",
-        "sleepy"
-      ]
-    },
-    "makima": {
-      "displayName": "Makima",
-      "franchise": "Chainsaw Man",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "cold",
-        "commanding"
-      ]
-    },
-    "clan-witch": {
-      "displayName": "Clan Witch",
-      "franchise": "Indivisible",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "casting",
-        "mysterious"
-      ]
-    },
-    "crusch": {
-      "displayName": "Crusch",
-      "franchise": "Re:Zero",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "regal",
-        "resolute"
+      "directory": "shirma",
+      "sprites": [
+        "clasped-calm", "clasped-eyes-closed-happy", "clasped-frustrated",
+        "clasped-happy", "clasped-neutral", "clasped-slight-smile",
+        "clasped-smile", "clasped-surprised", "clasped-talking",
+        "fists-frustrated", "fists-neutral", "fists-smile", "fists-talking",
+        "hat-clasped-calm", "hat-clasped-cheerful", "hat-clasped-eyes-closed-happy",
+        "hat-clasped-frustrated", "hat-clasped-happy", "hat-clasped-neutral",
+        "hat-clasped-smile", "hat-clasped-surprised", "hat-clasped-talking",
+        "hat-fists-frustrated", "hat-fists-neutral", "hat-fists-smile",
+        "hat-fists-talking",
+        "hat-open-frustrated", "hat-open-neutral", "hat-open-surprised",
+        "prayer-frustrated", "prayer-neutral", "prayer-surprised"
       ]
     },
     "supura": {
       "displayName": "Supura",
       "franchise": "Mugen Souls Z",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "mischievous",
-        "pouty"
+      "directory": "supura",
+      "sprites": ["angry", "determined", "neutral", "talking"]
+    },
+    "tharja-3ds": {
+      "displayName": "Tharja",
+      "franchise": "Fire Emblem Awakening",
+      "directory": "tharja-3ds",
+      "sprites": [
+        "arms-up-angry", "arms-up-neutral", "arms-up-sad",
+        "arms-up-serious", "arms-up-smirk", "scheming",
+        "tome-annoyed", "tome-happy", "tome-neutral",
+        "tome-serious", "tome-smirk"
       ]
+    },
+    "tharja-feh": {
+      "displayName": "Tharja (FEH)",
+      "franchise": "Fire Emblem Heroes",
+      "directory": "tharja-feh",
+      "sprites": ["portrait-scheming", "portrait-upset-and-smirk", "poses-sheet"]
+    },
+    "tharja-feh-summer": {
+      "displayName": "Tharja (FEH Summer)",
+      "franchise": "Fire Emblem Heroes",
+      "directory": "tharja-feh-summer",
+      "sprites": ["attack", "face-icon", "faces", "flame-detail", "neutral", "special-damaged"]
     },
     "zero": {
       "displayName": "Zero",
       "franchise": "Dengeki Bunko Fighting Climax",
-      "expressions": [
-        "neutral",
-        "happy",
-        "angry",
-        "sad",
-        "surprised",
-        "blush",
-        "serious",
-        "battle"
+      "directory": "zero",
+      "sprites": [
+        "attack-point", "attack-reach", "attack-reach-2", "casting",
+        "command", "determined", "effects", "effects-2",
+        "fighting-stance", "fighting-stance-2", "idle", "orb-attack",
+        "pointing", "ready", "salute", "special-attack", "special-attack-2",
+        "special-reach", "special-reach-2", "special-reach-3",
+        "walking", "walking-2"
       ]
     }
   }
