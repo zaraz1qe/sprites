@@ -71,7 +71,7 @@
         for (const [key, char] of Object.entries(data.characters)) {
           const card = document.createElement('div');
           card.className = 'card';
-          card.innerHTML = `<span><strong>${char.displayName}</strong><br><small style="color:#8b949e">${char.franchise}</small><br><small>${char.expressions.length} expressions</small></span>`;
+          card.innerHTML = `<span><strong>${char.displayName}</strong><br><small style="color:#8b949e">${char.franchise}</small><br><small>${char.sprites.length} sprites</small></span>`;
           grid.appendChild(card);
         }
       });
