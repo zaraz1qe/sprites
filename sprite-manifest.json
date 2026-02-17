@@ -23,6 +23,26 @@
         "worried", "worried-face", "worried-face-eyes-closed"
       ]
     },
+    "anastasia": {
+      "displayName": "Anastasia",
+      "franchise": "Re:Zero",
+      "directory": "anastasia",
+      "sprites": [
+        "concerned", "content", "eyes-closed", "happy", "laughing",
+        "neutral", "shocked", "surprised", "winking", "worried"
+      ]
+    },
+    "aqua": {
+      "displayName": "Aqua",
+      "franchise": "Konosuba",
+      "directory": "aqua",
+      "sprites": [
+        "angry", "calm", "content", "crying", "eyes-closed-smile",
+        "hand-on-hip-happy", "hand-on-hip-laughing", "hand-on-hip-winking",
+        "happy", "laughing", "nervous-smile", "neutral", "shocked",
+        "staff-happy", "surprised", "talking", "thinking", "wondering"
+      ]
+    },
     "camilla": {
       "displayName": "Camilla",
       "franchise": "Fire Emblem Fates",
@@ -70,6 +90,36 @@
         "smile", "stern", "surprised", "sword-pose"
       ]
     },
+    "crusch-knight": {
+      "displayName": "Crusch Karsten (Knight)",
+      "franchise": "Re:Zero",
+      "directory": "crusch-knight",
+      "sprites": [
+        "arms-crossed-annoyed", "arms-crossed-eyes-closed", "eyes-closed",
+        "neutral", "serious", "side-concerned", "side-serious", "smile",
+        "sword-angry", "sword-determined", "sword-ready"
+      ]
+    },
+    "crusch-pyjamas": {
+      "displayName": "Crusch Karsten (Pyjamas)",
+      "franchise": "Re:Zero",
+      "directory": "crusch-pyjamas",
+      "sprites": [
+        "arms-crossed-angry", "arms-crossed-eyes-closed", "eyes-closed",
+        "sad", "serious", "side-annoyed", "side-serious", "side-surprised", "smile"
+      ]
+    },
+    "darkness": {
+      "displayName": "Darkness",
+      "franchise": "Konosuba",
+      "directory": "darkness",
+      "sprites": [
+        "content", "eyes-closed-annoyed", "eyes-closed-smile",
+        "hand-on-chest-blushing", "hand-on-chest-happy", "hand-on-chest-smile",
+        "hand-on-chest-smirk", "serious", "side-glance-serious", "smile",
+        "stern", "surprised", "sword-confident", "sword-shouting", "talking", "worried"
+      ]
+    },
     "crusch-dress": {
       "displayName": "Crusch Karsten (Dress)",
       "franchise": "Re:Zero",
@@ -78,6 +128,35 @@
         "angry", "arms-crossed-eyes-closed", "arms-crossed-serious",
         "determined", "happy", "neutral", "serious",
         "side-annoyed", "side-sad", "side-worried", "surprised"
+      ]
+    },
+    "don-quixote": {
+      "displayName": "Don Quixote",
+      "franchise": "Limbus Company",
+      "directory": "don-quixote",
+      "sprites": [
+        "face-annoyed", "face-excited", "face-grin", "face-neutral",
+        "face-sad", "face-serious", "face-shocked", "face-smile", "full-body"
+      ]
+    },
+    "elsa": {
+      "displayName": "Elsa Granhiert",
+      "franchise": "Re:Zero",
+      "directory": "elsa",
+      "sprites": [
+        "arms-crossed-annoyed", "arms-crossed-smirk", "blade-grin",
+        "blade-neutral", "blade-smirk", "content", "happy", "neutral",
+        "silhouette", "smile", "smile-hands-behind"
+      ]
+    },
+    "elsa-cloakless": {
+      "displayName": "Elsa Granhiert (Cloakless)",
+      "franchise": "Re:Zero",
+      "directory": "elsa-cloakless",
+      "sprites": [
+        "arms-crossed-annoyed", "arms-crossed-smirk", "blade-content",
+        "blade-grin", "blade-smile", "hand-on-hip-content",
+        "hand-on-hip-neutral", "hand-on-hip-smile", "happy", "smile-hands-behind"
       ]
     },
     "emilia": {
@@ -94,6 +173,28 @@
         "questioning", "sad", "serious", "smile", "somber", "speaking",
         "startled", "surprised", "thoughtful", "upset",
         "worried", "worried-hands-clasped"
+      ]
+    },
+    "emilia-pink-dress": {
+      "displayName": "Emilia (Pink Dress)",
+      "franchise": "Re:Zero",
+      "directory": "emilia-pink-dress",
+      "sprites": [
+        "angry", "eyes-closed-happy", "eyes-closed-pout", "eyes-closed-sad",
+        "finger-to-lips", "gentle-smile", "hand-on-hip-annoyed", "neutral",
+        "serious", "side-content", "side-curious", "surprised",
+        "surprised-talking", "worried", "worried-hands-together"
+      ]
+    },
+    "emilia-purple-dress": {
+      "displayName": "Emilia (Purple Dress)",
+      "franchise": "Re:Zero",
+      "directory": "emilia-purple-dress",
+      "sprites": [
+        "annoyed", "eyes-closed-happy", "eyes-closed-sad", "finger-to-lips",
+        "gentle-smile", "hand-on-hip-determined", "neutral", "serious",
+        "side-content", "side-curious", "surprised", "surprised-talking",
+        "worried", "worried-hands-together"
       ]
     },
     "emilia-halloween": {
@@ -133,6 +234,71 @@
         "damaged-2-angry", "damaged-2-annoyed", "damaged-2-neutral",
         "damaged-2-smile", "damaged-2-smirk", "damaged-2-surprised", "damaged-2-worried",
         "neutral", "smile", "smirk", "surprised", "worried"
+      ]
+    },
+    "faust": {
+      "displayName": "Faust",
+      "franchise": "Limbus Company",
+      "directory": "faust",
+      "sprites": [
+        "face-bashful", "face-distressed", "face-grin", "face-happy",
+        "face-neutral", "face-sad", "face-serious", "face-smug",
+        "face-somber", "face-surprised", "full-body"
+      ]
+    },
+    "felix": {
+      "displayName": "Felix Argyle",
+      "franchise": "Re:Zero",
+      "directory": "felix",
+      "sprites": [
+        "angry", "excited", "eyes-closed-calm", "eyes-closed-smile",
+        "gentle-smile", "happy-talking", "serious", "shocked", "side-neutral",
+        "side-smile", "surprised", "thinking-worried", "winking-confident",
+        "winking-playful", "winking-smirk", "worried"
+      ]
+    },
+    "felix-knight": {
+      "displayName": "Felix Argyle (Knight)",
+      "franchise": "Re:Zero",
+      "directory": "felix-knight",
+      "sprites": [
+        "annoyed", "concerned", "determined", "excited",
+        "eyes-closed-content", "eyes-closed-happy", "furious", "happy",
+        "side-playful", "side-uncertain", "surprised", "winking-cheerful",
+        "winking-confident", "winking-smug", "worried"
+      ]
+    },
+    "felix-robes": {
+      "displayName": "Felix Argyle (Robes)",
+      "franchise": "Re:Zero",
+      "directory": "felix-robes",
+      "sprites": [
+        "cheerful", "concerned", "excited", "furious", "happy",
+        "laughing", "surprised", "winking-playful", "winking-smug", "worried"
+      ]
+    },
+    "felt": {
+      "displayName": "Felt",
+      "franchise": "Re:Zero",
+      "directory": "felt",
+      "sprites": [
+        "arms-up-yawning", "back-turn-embarrassed", "back-turn-neutral",
+        "curious", "excited", "eyes-closed-annoyed", "eyes-closed-content",
+        "eyes-closed-laughing", "eyes-closed-shrug", "eyes-closed-smug",
+        "fighting-determined", "frustrated", "happy", "neutral",
+        "running-alarmed", "serious", "shocked", "side-glance-sad",
+        "smile", "surprised", "thinking", "worried"
+      ]
+    },
+    "felt-dress": {
+      "displayName": "Felt (Dress)",
+      "franchise": "Re:Zero",
+      "directory": "felt-dress",
+      "sprites": [
+        "annoyed", "back-turn-neutral", "back-turn-surprised", "curious",
+        "eyes-closed-annoyed", "eyes-closed-laughing", "happy",
+        "leaning-forward-excited", "leaning-forward-kick", "neutral",
+        "serious", "shocked", "side-glance-sad", "smile", "worried-thinking"
       ]
     },
     "gullveig": {
@@ -269,6 +435,18 @@
         "uncertain", "worried"
       ]
     },
+    "rem-pyjamas": {
+      "displayName": "Rem (Pyjamas)",
+      "franchise": "Re:Zero",
+      "directory": "rem-pyjamas",
+      "sprites": [
+        "blushing-smile", "content-smile", "expressions-sheet",
+        "eyes-closed-calm", "eyes-closed-happy", "eyes-closed-touched",
+        "eyes-closed-wiping-tears", "hand-on-chest-concerned",
+        "hand-on-chest-smile", "hand-on-chest-worried",
+        "side-content", "side-curious", "side-neutral"
+      ]
+    },
     "shirma": {
       "displayName": "Shirma",
       "franchise": "Mugen Souls Z",
@@ -285,6 +463,20 @@
         "hat-fists-talking",
         "hat-open-frustrated", "hat-open-neutral", "hat-open-surprised",
         "prayer-frustrated", "prayer-neutral", "prayer-surprised"
+      ]
+    },
+    "sinclair": {
+      "displayName": "Sinclair",
+      "franchise": "Limbus Company",
+      "directory": "sinclair",
+      "sprites": [
+        "face-angry", "face-anguish", "face-annoyed", "face-bashful",
+        "face-bitter", "face-damaged-anguish", "face-damaged-crying",
+        "face-damaged-distressed", "face-damaged-grimace", "face-disgusted",
+        "face-embarrassed", "face-frustrated", "face-glum", "face-irritated",
+        "face-melancholy", "face-neutral", "face-somber", "face-stern",
+        "face-upset", "face-worried", "full-body", "full-body-bottom",
+        "full-body-mid", "full-body-top"
       ]
     },
     "supura": {
